@@ -512,7 +512,7 @@ header .fa-times{
   .contact form input[type="submit"]{
     width:100%;
   }
-
-}
-header .nav-toggle {
-  .contact from input [type="button"]}
+  
+  .contct form .outputbox output, select{
+    width: 90%;
+  }  
